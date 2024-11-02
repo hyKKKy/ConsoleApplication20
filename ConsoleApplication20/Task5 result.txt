@@ -1,0 +1,5 @@
+Chars55
+Lines4
+Vowels11
+Consonants24
+Numbers9
